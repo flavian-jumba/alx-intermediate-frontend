@@ -1,0 +1,6 @@
+#Step One 
+I first installed node version 20.16 in my terminal 
+
+#Step two
+I  installed SASS by using the following command: if you have node installed:
+npm install sass -v 3.7.4
